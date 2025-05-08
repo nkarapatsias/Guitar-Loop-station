@@ -1,0 +1,36 @@
+BUTTONS
+
+Mode || Undo || 
+
+Record || Stop || Track 1 ||Track 2 || Track 3 || Track 4  ||
+
+
+Record Mode:
+
+Mode select || Undo selected track(double tap Redo) || 
+
+Record selected track (hold global reset) || No function (Stop) || Track 1 select (Hold reset track)||Track 2 select (Hold reset track)|| Track 3 (Hold reset track)|| Track 4 (Hold reset track)||
+
+
+Play Mode:
+
+Mode select || Global reset|| 
+
+-------- ||Mute all tracks and  go to stop function () || Track 1 Mute/unmute  ||Track 2 Mute/unmute|| Track 3 Mute/unmute || Track 4 Mute/unmute ||
+
+
+
+
+
+Stop Mode:
+
+-------- || Undo || 
+
+Play all tracks (exit from stop function and reset focus lock)|| Play focus locked tracks  (and reset focus lock)|| Track 1 focus lock ||Track 2 Record select focus lock || Track 3 select focus lock || Track 4 select focus lock ||
+
+
+
+
+
+
+

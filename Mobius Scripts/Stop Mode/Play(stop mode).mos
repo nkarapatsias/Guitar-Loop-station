@@ -1,0 +1,37 @@
+message Start Point
+
+wait cycle
+
+Track 1
+Play
+Move LoopFrames  0
+
+
+Track 2
+Play
+Move LoopFrames  0
+
+Track 3
+Play
+Move LoopFrames  0
+
+
+Track 4
+Play
+Move LoopFrames  0
+
+
+for 1
+	set focus false
+next
+for 2
+	set focus false
+next
+for 3
+	set focus false
+next
+for 4
+	set focus false
+next
+end
+ 

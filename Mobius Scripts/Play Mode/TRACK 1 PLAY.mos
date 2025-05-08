@@ -1,0 +1,6 @@
+Track 1
+if inMute
+   Mute
+elseif !inMute
+   Mute
+endif

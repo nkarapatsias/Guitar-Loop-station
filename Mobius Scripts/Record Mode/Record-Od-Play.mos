@@ -1,0 +1,14 @@
+if mode = reset
+    record
+    message resetttt
+elseif mode = record
+    overdub
+    message recorddddd
+elseif mode = overdub 
+    play
+    message overddddd
+elseif mode = play
+    overdub
+    message playyyy
+endif
+

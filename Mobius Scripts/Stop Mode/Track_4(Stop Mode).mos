@@ -1,0 +1,7 @@
+for 4
+	if focus == 1
+		set focus 0
+	else focus == 0
+		set focus 1
+	endif
+end

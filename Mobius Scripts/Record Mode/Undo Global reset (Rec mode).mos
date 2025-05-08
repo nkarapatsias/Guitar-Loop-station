@@ -1,0 +1,15 @@
+!sustain 500
+
+Undo
+end
+
+Label sustain
+Track 1
+Reset
+for 2
+Reset
+for 3
+Reset
+for 4
+Reset
+end

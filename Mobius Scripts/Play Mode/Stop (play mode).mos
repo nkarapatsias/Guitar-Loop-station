@@ -1,0 +1,40 @@
+Track 4
+MuteOn
+
+if !inMute
+
+  MuteOn
+
+endif
+
+Track 2
+MuteOn
+
+if !inMute
+
+  MuteOn
+
+endif
+
+Track 3
+MuteOn
+
+if !inMute
+
+  MuteOn
+
+endif
+
+Track 1
+MuteOn
+
+if !inMute
+
+  MuteOn
+
+endif
+
+
+
+
+ 

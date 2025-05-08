@@ -1,0 +1,20 @@
+!sustain 1000
+
+
+for 4
+   if mode = record
+      play
+      message apo record
+   elseif mode = overdub
+      play
+      message apo overdub
+   endif
+next
+Track 1
+end
+Label sustain
+Reset
+end
+
+
+

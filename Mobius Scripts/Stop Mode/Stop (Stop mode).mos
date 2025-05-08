@@ -1,0 +1,54 @@
+!focuslock
+
+wait cycle
+
+
+for 1
+	
+	if focus == true
+		MuteOff
+		
+   	endif
+
+
+for 2
+	
+	if focus == true
+      		MuteOff
+	
+		
+				
+   	endif
+
+for 3
+	
+	if focus == true
+      		MuteOff
+		
+   	endif
+
+for 4
+	
+	if focus == true
+
+      		MuteOff
+		
+		
+   	endif
+
+
+
+
+for 1
+	set focus false
+endif
+for 2
+	set focus false
+endif
+for 3
+	set focus false
+endif
+for 4
+	set focus false
+end
+Track 1

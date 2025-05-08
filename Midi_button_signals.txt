@@ -1,0 +1,41 @@
+
+----------RECORD MODE----------
+
+Record: 30
+Stop: 31
+
+Track_1: 32
+Track_2: 33
+Track_3: 34
+Track_4: 35
+
+Undo: 36
+
+
+
+----------PLAY MODE----------
+
+Record: 37
+Stop: 38
+
+Track_1: 39
+Track_2: 40
+Track_3: 41
+Track_4: 42
+
+Undo: 43
+
+
+
+----------STOP MODE----------
+
+Record: 44
+Stop: 45
+
+Track_1: 46
+Track_2: 47 
+Track_3: 48
+Track_4: 49
+
+Undo: 50
+
